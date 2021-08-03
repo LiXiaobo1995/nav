@@ -1,15 +1,15 @@
 {
     "homepage": "https://github.com/ClashDotNetFramework/ClashDotNetFramework",
     "description": "A .NET Framework based GUI Proxy For Windows",
-    "version": "1.2.4",
+    "version": "1.2.6",
     "license": "Unknown",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases/download/v1.2.4/Clash.NET.1.2.4.x64.7z",
+            "url": "https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases/download/v1.2.6/Clash.NET.1.2.6.x64.7z",
             "hash": "9b0ed20aa56e46f5d58ea20cf593321ae480d29d423e92110b9689dd6f0a1a51"
         }
     },
-    "extract_dir": "Clash .NET 1.2.4",
+    "extract_dir": "Clash .NET 1.2.6",
     "shortcuts": [
         [
             "ClashDotNet.exe",
